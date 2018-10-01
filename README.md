@@ -1,4 +1,4 @@
-# Excersize
+# Exercise
 
 Please look for .zip files.
 
